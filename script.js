@@ -5,7 +5,7 @@ const refInfo = [
   {
     title: 'Ekonomikontoret',
     body: 'En webbsida jag gjorde till min nuvarande arbetsgivare för ett par år sedan. Jag skrev all HTML och CSS lokalt och konverterade sedan allt till ett Worpress-tema för att få tillgång till deras CMS.',
-    gifUrl: 'https://josiasmusik.se/ekogif.gif',
+    gifUrl: 'https://josiasmusik.se/ekosmall.gif',
     gitUrl: '',
   },
   {
